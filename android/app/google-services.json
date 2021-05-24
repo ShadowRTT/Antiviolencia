@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "782075377936",
+    "firebase_url": "https://sistema-antiviolencia-fdf6a-default-rtdb.firebaseio.com",
+    "project_id": "sistema-antiviolencia-fdf6a",
+    "storage_bucket": "sistema-antiviolencia-fdf6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782075377936:android:a59f33c1574ddce263cd95",
+        "android_client_info": {
+          "package_name": "com.prevencion.antiviolencia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782075377936-9pql7tu0hkgh38854tlhf6rkrqlu74mu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRrIKaFMKlVZuCNUUHg3SBQj2O2xJyiq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782075377936-9pql7tu0hkgh38854tlhf6rkrqlu74mu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
